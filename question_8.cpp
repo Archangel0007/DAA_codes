@@ -1,3 +1,9 @@
+/*
+ Consider an array ofA[1,2,3,...,n] be an array ofndistinct num-bers. Ifi < jandA[i]> A[j], then we call the the pair (i,j) as an 
+ inversion ofA. For example, the five inversions in the arrayA:<2,3,8,6,1>are  (1,5),(2,5),(3,4),(3,5),(4,5).  
+ Given  anarray of numbers, design the pseudocode and the correspondingcode  that  follows  ‘Divide-Conquer-Combine’  strategy  for  
+ com-puting  the  number  of  inversions  in  the  array  and  analyse  thesame.
+*/
 #include <iostream>
 #include <vector>
 using namespace std;
