@@ -1,3 +1,6 @@
+/*
+Given two square matrices of same size, Design an DCC basedalgorithm to compute the product of two matrices and analyse the same.
+*/
 #include <iostream>
 #include <vector>
 using namespace std;
