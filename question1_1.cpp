@@ -1,3 +1,11 @@
+/*
+Consider arrangingnnumbers stored in an array A, by first find-ing  the  smallest  element  of  A  and  exchanging  it  with  the  
+ele-ment  inA[1].  Then  find  the  second  smallest  element  ofAandexchange it withA[2] continue in this manner for the first (n−1)
+2 elements. Based on the approach described above, write an algo-rithm for arranging the givennnumbers in an increasing orderof the 
+numbers. Compute the best-case running time, worst-caserunning time and the average-case running time of the algorithm.
+Compare this algorithm with that of the insertion-sort algortim,based on the respectiveT(n). 
+Based on your analysis, concludewhich algorithm performs better for which type of inputs etc.
+*/
 #include <iostream>
 #include <limits>
 using namespace std;
