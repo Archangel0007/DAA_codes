@@ -1,3 +1,10 @@
+/*
+Consider  sorting  (arranging  in  an  increasing  order)nnumbersstored  in  an  array  A,  by  repeatedly  by  swapping  the  
+adjacent elements that are not in an increasing order. IfA[i] andA[i+ 1]are  such  thatA[i]> A[i+ 1],  thenA[i]  andA[i+ 1]  shall  
+beswapped. Based on the approach described above, write an algo-rithm for arranging the given n numbers in an increasing order of the 
+numbers. Compute the best-case running time, worst-caserunning time and the average-case running time of the algorithm. 
+Compare this algorithm with that of the insertion-sort algorithmand conclude which algorithm performs better for which type ofinputs etc.
+*/
 #include <iostream>
 #include <limits>
 using namespace std;
