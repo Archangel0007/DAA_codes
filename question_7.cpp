@@ -1,3 +1,8 @@
+/*
+Merge-sort algorithm (discussed in the class) works by partition-ing the input array A recursively into two halves. 
+Here, the par-tition is based on the position in the array. Instead, design a newalgorithm A’ where partioning is based on the values in 
+the inputarray. Compare the performance of A’ with that of A.
+*/
 #include <iostream>
 #include <vector>
 using namespace std;
