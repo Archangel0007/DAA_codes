@@ -1,3 +1,9 @@
+/*
+Given  n  2-dimensional  points  (x1,y1),(x2,y2),...,(xn,yn),  De-sign an algorithm that follows the ‘Divide-Conquer-Combine’ startegy to
+(a)  arrange then−pointsin an increasing order of thexcoordi-nates
+(b)  arrange then−pointsin an increasing order of theycoordi-nates
+(c)  arrange then−pointsin decreasing order of the value (x−coordinate+y−coordinate)/2) coordinates
+*/
 #include <iostream>
 #include <vector>
 using namespace std;
