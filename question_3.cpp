@@ -1,3 +1,8 @@
+/*
+A nonnegative integer n is given. Design an algorithm to countall  the  solutions  of  the  inequalityx2+y2< n,  wherexandyare  non-negative
+integers.  The  pseudocode  should  not  use  anyoperations  with  real  numbers  (square  roots,  etc.).  Analyse  thepseudocode designed 
+by you.
+*/
 #include <iostream>
 using namespace std;
 int main(){
