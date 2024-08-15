@@ -1,0 +1,3 @@
+%This query solves the "Combine two Tables"
+
+select firstName,lastName,city,state from Person left join Address on Person.personId=Address.personId
